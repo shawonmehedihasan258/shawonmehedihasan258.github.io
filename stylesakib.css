@@ -12,7 +12,7 @@ body {
   height: 70%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.69);
-  background-image: url(sayem.jpg);
+  background-image: url(sayem.JPG);
   background-size: cover;
   background-blend-mode: darken;
   position: absolute;
@@ -430,7 +430,7 @@ a:link, a:visited
   margin: 0 auto;
 }
 .section-area .section-image{
-  background-image: url(nnn.jpg);
+  background-image: url(nnn.JPG);
   background-color: rgba(0, 0, 0, 0.69);
   background-size: cover;
   height: 650px;
